@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.3.0
+pkgdown_sha: ~
+articles:
+  getting-started: getting-started.html
+  inference-local: web/inference-local.html
+  inference-mfdr: web/inference-mfdr.html
+  models: web/models.html
+  penalties: web/penalties.html
+
